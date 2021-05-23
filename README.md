@@ -11,7 +11,7 @@ In this, taking the object first and getting the centroids of the detected objec
 
 This is how the vehicle detection looks like:
 
-![](support/)
+![](support/vehicle.png)
 
 later going frame by frame and analyzing the pixel difference created by the vehicle
 later we use this difference to calculate pixel per frames and with that, we can easily come up with a speed 
