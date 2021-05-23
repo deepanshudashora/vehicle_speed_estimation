@@ -2,8 +2,16 @@
 
 In this project, yolov4 is used for custom vehicle detection (detecting cars, bikes, trucks, buses)
 
+Architecture:
+
+![](support/0_YUhz-TnIT8XBaiDp.jpeg)
+
 Later computer vision used for estimating speed
 In this, taking the object first and getting the centroids of the detected object
+
+This is how the vehicle detection looks like:
+
+![](support/)
 
 later going frame by frame and analyzing the pixel difference created by the vehicle
 later we use this difference to calculate pixel per frames and with that, we can easily come up with a speed 
